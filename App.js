@@ -85,8 +85,8 @@ const App = () => {
               resizeMode="cover"
             />
           </View>
-          <Login />
-          {/* <Register /> */}
+           {/*<Login />*/}
+          <Register /> 
         </KeyboardAvoidingView>
       </ImageBackground>
 
